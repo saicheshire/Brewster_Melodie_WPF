@@ -13,9 +13,16 @@ var name = prompt("Please type in your name:");
 //Say hello to the user and let them know what we are doing
 alert("Welcome "+name+"! We are going to figure out how many rats you should be able to fit in your cage.");
 
-//Ask how long the cage is in inches.
+//Ask the user how long the cage is in inches.
 //Create a variable for the answer.
 var length = prompt("How many inches long is the cage?");
 
 //Console.log the response
 console.log(length);
+
+//Ask the user how wide the cage is in inches.
+//Create a variable for the answer.
+var width = prompt("How many inches wide is the cage?");
+
+//Console.log the response
+console.log(width);
