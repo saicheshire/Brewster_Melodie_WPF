@@ -24,3 +24,11 @@ var iconPixels = prompt("How many pixels wide is each icon");
 
 //Console.log the response
 console.log(iconPixels);
+
+//Ask the user which icon they want to point to
+//Create a variable to show the answer
+
+var whichIcon = prompt("Numbered from left to right, which icon do you want the arrow to point to?");
+
+//Console.log the response
+console.log(whichIcon);
