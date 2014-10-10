@@ -34,12 +34,9 @@ var height = prompt("How many inches tall is the cage?");
 //Console.log the response
 console.log(height);
 
-//Calculate the number of rats the cage can hold (each rat requires 2 cubic feet of space).
-//First we need to calculate how many cubic feet the cage is
-//Cubic feet is measured by multiplying the height * width * depth, then dividing that total by the number of cubic inches in a cubic foot.
-//A cubic foot is 12 * 12 * 12 = 1728
+//Calculate how many cubic inches the cage is
 //Create variables for our calculation.
-var totalSides = length * width * height;
+var cubicInches = length * width * height;
 
-//Console.log totalSides
-console.log(totalSides);
+//Console.log the total
+console.log(cubicInches);

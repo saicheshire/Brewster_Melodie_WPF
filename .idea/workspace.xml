@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a09c5957-ff1f-4e9d-a00e-c633cb00581a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expressions_Personal/js/personal.js" afterPath="$PROJECT_DIR$/Expressions_Personal/js/personal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Go To Training 2/js/week2.js" afterPath="$PROJECT_DIR$/Go To Training 2/js/week2.js" />
     </list>
     <ignored path="Brewster_Melodie_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,8 +41,8 @@
       <file leaf-file-name="personal.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Expressions_Personal/js/personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.81060606" vertical-offset="324" max-vertical-offset="750">
-              <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.81060606" vertical-offset="294" max-vertical-offset="705">
+              <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -52,8 +53,8 @@
       <file leaf-file-name="week2.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Go To Training 2/js/week2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="900">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="519" max-vertical-offset="975">
+              <caret line="59" column="37" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -86,7 +87,6 @@
       <list>
         <option value="$PROJECT_DIR$/Setup GitHub/index.html" />
         <option value="$PROJECT_DIR$/Go To Training 2/index.html" />
-        <option value="$PROJECT_DIR$/Go To Training 2/js/week2.js" />
         <option value="$PROJECT_DIR$/Expressions_worksheet/js/ex_worksheet.js" />
         <option value="$PROJECT_DIR$/Expressions_worksheet/js/expworksheet.js" />
         <option value="$PROJECT_DIR$/Expressions_worksheet/index.html" />
@@ -97,6 +97,7 @@
         <option value="$PROJECT_DIR$/Expressions_Wacky/index.html" />
         <option value="$PROJECT_DIR$/Expressions_Wacky/js/wacky.js" />
         <option value="$PROJECT_DIR$/Expressions_Personal/index.html" />
+        <option value="$PROJECT_DIR$/Go To Training 2/js/week2.js" />
         <option value="$PROJECT_DIR$/Expressions_Personal/js/personal.js" />
       </list>
     </option>
@@ -475,8 +476,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Go To Training 2/js/week2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="900">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="519" max-vertical-offset="975">
+          <caret line="59" column="37" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -485,8 +486,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Expressions_Personal/js/personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.81060606" vertical-offset="324" max-vertical-offset="750">
-          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.81060606" vertical-offset="294" max-vertical-offset="705">
+          <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
