@@ -56,3 +56,7 @@ var totalRats = cubicFeet / 2;
 
 //Console.log the total
 console.log(totalRats);
+
+//Tell the user the results
+console.log("Your cage can hold up to "+totalRats+" rats.");
+alert("Your cage can hold up to "+totalRats+" rats.");

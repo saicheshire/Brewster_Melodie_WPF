@@ -53,4 +53,3 @@ console.log(futureAge);
 
 console.log("You will be "+futureAge+" in "+ yearsMore +" years.");
 alert("You will be "+futureAge+" in "+ yearsMore +" years.");
-
