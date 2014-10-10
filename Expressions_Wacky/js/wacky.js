@@ -5,7 +5,7 @@
  10-09-2014
  */
 
-//Calculate the average number of monkeys you have in each barrel
+//Calculate how many monkeys you have
 //Ask the user how many monkeys are in the first barrel
 //Create a variable to show the answer
 
@@ -28,3 +28,13 @@ monkeyBarrel[2] = prompt("How many monkeys are in the third and final barrel?");
 
 //Console.log the answer
 console.log(monkeyBarrel[2]);
+
+//Calculate total monkeys
+
+var totalMonkeys = parseInt(monkeyBarrel[0]) + parseInt(monkeyBarrel[1]) + parseInt(monkeyBarrel[2]);
+
+//Tell the user the answer
+alert("You have "+totalMonkeys+" monkeys in your barrels.");
+
+//Console.log the answer
+console.log(totalMonkeys);
