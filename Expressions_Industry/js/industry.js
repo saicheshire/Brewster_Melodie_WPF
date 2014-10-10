@@ -9,7 +9,7 @@
 
 //Ask the user the total width (in pixels) of all the icons added together.
 //For example, you are adding icons for Facebook, Twitter, LinkedIn, and E-mail.  How many inches wide are they when added together?
-//The smallest icon size is 16x16 pixels.  4 icons plus 2 pixels in between each icon is 24 pixels
+//The smallest icon size is 16x16 pixels.  4 icons plus 2 pixels in between each icon is 70 pixels
 //Create a variable to ask for the total width and catch their answer
 
 var totalWidth = prompt("How many pixels wide is your icon bar?");
@@ -32,3 +32,13 @@ var whichIcon = prompt("Numbered from left to right, which icon do you want the 
 
 //Console.log the response
 console.log(whichIcon);
+
+//Calculate how many pixels to move the arrow
+
+var moveTo = totalWidth - iconPixels * whichIcon;
+
+//Alert user with the answer
+alert("You need to move the arrow "+moveTo+" pixels to the right.");
+
+//Console.log the answer
+console.log(moveTo);
