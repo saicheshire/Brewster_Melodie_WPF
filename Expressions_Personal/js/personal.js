@@ -6,6 +6,7 @@
  */
 
 //Create a js file that calculates how many rats you should be able to fit in your cage.
+//I used my own cage as a calculation which is 36" long X 24" wide X 52" high.  The result is 13 rats.
 
 //Ask the user their name
 var name = prompt("Please type in your name:");
