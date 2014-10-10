@@ -60,3 +60,5 @@ console.log(totalRats);
 //Tell the user the results
 console.log("Your cage can hold up to "+totalRats+" rats.");
 alert("Your cage can hold up to "+totalRats+" rats.");
+
+//Note: I probably made this way more complicated than it needed to be, something I will have to work on in the future.
