@@ -40,3 +40,19 @@ var cubicInches = length * width * height;
 
 //Console.log the total
 console.log(cubicInches);
+
+//Calculate cubic inches into cubic feet
+//Cubic feet is measured by multiplying the height * width * depth, then dividing that total by the number of cubic inches in a cubic foot.
+//A cubic foot is 12 * 12 * 12 = 1728
+var cubicFeet = cubicInches / 1728;
+
+//Console.log the total
+console.log(cubicFeet);
+
+//Calculate the number of rats the cage can hold.
+//Each rat requires 2 cubic feet of space.
+//Create a variable for the calculation
+var totalRats = cubicFeet / 2;
+
+//Console.log the total
+console.log(totalRats);
