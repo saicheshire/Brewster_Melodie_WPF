@@ -14,3 +14,10 @@ monkeyBarrel[0] = prompt("How many monkeys are in the first barrel?");
 
 //Console.log the answer
 console.log(monkeyBarrel[0]);
+
+//Ask the user how many monkeys are in the second barrel
+
+monkeyBarrel[1] = prompt("How many monkeys are in the second barrel?");
+
+//Console.log the answer
+console.log(monkeyBarrel[1]);
