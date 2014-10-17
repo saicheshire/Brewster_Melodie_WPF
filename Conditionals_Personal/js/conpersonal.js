@@ -19,18 +19,6 @@ if (currentTemp === "") { //if the current temperature is left blank, then re pr
     name = prompt("Please enter the current temperature.  Don't leave it blank!");
 }
 
-//Create a variable to determine your minimum temperature
-var minTemp = prompt("What temperature is too cold for you to want to walk your dogs?");
-
-//Console log the minimum temperature
-console.log(minTemp);
-
-//validate prompt
-if (minTemp === "") { //if the current temperature is left blank, then re prompt
-
-    name = prompt("Please enter the minimum temperature.  Don't leave it blank!");
-}
-
 //Create a variable to determine your maximum temperature
 var maxTemp = prompt("What temperature is too hot for you to want to walk your dogs?");
 
@@ -41,4 +29,17 @@ console.log(maxTemp);
 if (maxTemp === "") { //if the current temperature is left blank, then re prompt
 
     name = prompt("Please enter the maximum temperature.  Don't leave it blank!");
+}
+
+//Create if statement to evaluate whether you should walk your dogs
+if (currentTemp < maxTemp) {
+
+console.log("It sounds like you're taking your dogs for a walk.");
+alert("It sounds like you're taking your dogs for a walk.");
+
+}else {
+
+console.log("It's too hot for both you and your dogs to walk today.");
+alert("It's too hot for both you and your dogs to walk today.");
+
 }
