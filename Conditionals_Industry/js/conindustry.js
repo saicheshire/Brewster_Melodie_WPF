@@ -24,3 +24,9 @@ if (modemDistance === ""){//if answer is blank, re-prompt the user
 }
 //Console log the response
 console.log(modemDistance);
+//Create if statements to determine whether your cable is long enough
+if (cableLength < modemDistance) {
+    console.log("You will have to buy a longer ethernet cable.");
+} else if (cableLength >= modemDistance){
+    console.log("Your ethernet cable should be long enough to reach from your modem to your computer.")
+}
