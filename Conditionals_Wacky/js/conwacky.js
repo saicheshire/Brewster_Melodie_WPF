@@ -27,3 +27,11 @@ if (totalBitches ==""){ //if answer is blank, then re-prompt the user
 }
 //Console log the response
 console.log(totalBitches);
+//Create if statements and solutions
+if (minBitches > totalBitches) {
+    console.log("Your bitch will not have a chance of getting a major if she is entered in this show.");
+    alert("Your bitch will not have a chance of getting a major if she is entered in this show.")
+}else {
+    console.log("Your bitch can get a major in this show, so go and good luck!");
+    alert("Your bitch can get a major in this show, so go and good luck!")
+}
