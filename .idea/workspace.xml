@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a09c5957-ff1f-4e9d-a00e-c633cb00581a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conditionals_Wacky/js/conwacky.js" afterPath="$PROJECT_DIR$/Conditionals_Wacky/js/conwacky.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conditionals_Industry/js/conindustry.js" afterPath="$PROJECT_DIR$/Conditionals_Industry/js/conindustry.js" />
     </list>
     <ignored path="Brewster_Melodie_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,10 +45,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="conwacky.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="conwacky.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Conditionals_Wacky/js/conwacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8378378" vertical-offset="230" max-vertical-offset="630">
+            <state vertical-scroll-proportion="0.0" vertical-offset="230" max-vertical-offset="630">
               <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -57,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="conindustry.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="conindustry.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Conditionals_Industry/js/conindustry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
-              <caret line="10" column="2" selection-start-line="10" selection-start-column="0" selection-end-line="16" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.7972973" vertical-offset="110" max-vertical-offset="510">
+              <caret line="32" column="97" selection-start-line="32" selection-start-column="97" selection-end-line="32" selection-end-column="97" />
               <folding />
             </state>
           </provider>
@@ -103,9 +103,9 @@
         <option value="$PROJECT_DIR$/Conditionals_Personal/index.html" />
         <option value="$PROJECT_DIR$/Conditionals_Personal/js/conpersonal.js" />
         <option value="$PROJECT_DIR$/Conditionals_Industry/index.html" />
-        <option value="$PROJECT_DIR$/Conditionals_Industry/js/conindustry.js" />
         <option value="$PROJECT_DIR$/Conditionals_Wacky/index.html" />
         <option value="$PROJECT_DIR$/Conditionals_Wacky/js/conwacky.js" />
+        <option value="$PROJECT_DIR$/Conditionals_Industry/js/conindustry.js" />
       </list>
     </option>
   </component>
@@ -574,21 +574,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_Industry/js/conindustry.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
-          <caret line="10" column="2" selection-start-line="10" selection-start-column="0" selection-end-line="16" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_Wacky/js/conwacky.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8378378" vertical-offset="230" max-vertical-offset="630">
+        <state vertical-scroll-proportion="0.0" vertical-offset="230" max-vertical-offset="630">
           <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditionals_Industry/js/conindustry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7972973" vertical-offset="110" max-vertical-offset="510">
+          <caret line="32" column="97" selection-start-line="32" selection-start-column="97" selection-end-line="32" selection-end-column="97" />
+          <folding />
         </state>
       </provider>
     </entry>
