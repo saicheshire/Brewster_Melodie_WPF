@@ -18,3 +18,12 @@ if (minBitches === ""){ //if answer is blank, then re-prompt the user
 }
 //Console log response
 console.log(minBitches);
+//Create a variable asking how many bitches are attending the dog show
+var totalBitches = prompt("How many bitches are in attendance?");
+//validate response
+if (totalBitches ==""){ //if answer is blank, then re-prompt the user
+
+    name = prompt("Please enter the total number of bitches attending.  Don't leave it blank!");
+}
+//Console log the response
+console.log(totalBitches);
