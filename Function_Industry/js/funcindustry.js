@@ -2,7 +2,7 @@
  Melodie Brewster
  WPF 1410 Section 02
  Functions Assignment - Industry
- 10-22-2014
+ 10-23-2014
  */
 
 //Calculate an estimate on how much it will cost to create a website for a client
