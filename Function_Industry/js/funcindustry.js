@@ -5,7 +5,7 @@
  10-22-2014
  */
 
-//Calculate an estimate the length and cost it will be to create a website for a client
+//Calculate an estimate on how much it will cost to create a website for a client
 //create variable for hours spent on each page
 var perPage = prompt("How many hours on average does it take for you to finish each page?");
 
@@ -24,3 +24,16 @@ while(isNaN(perHour) || perHour===""){
     perHour = prompt("please enter a number!");
 }
 
+//create variable for the total number of pages you'll be creating
+var totalPages = prompt("How many pages are there going to be on the website?");
+
+//validate
+while(isNaN(totalPages) || totalPages===""){
+
+    totalPages = prompt("please enter a number!");
+}
+
+//call the function
+var totalCost = calculateTotal(perPage,perHour,totalPages);
+console.log("It will cost your client around" + "$" + totalCost + " to create their website.");
+alert("It will cost your client around" + "$" + totalCost + " to create their website.");
