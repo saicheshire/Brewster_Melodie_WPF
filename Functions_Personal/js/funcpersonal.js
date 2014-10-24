@@ -2,7 +2,7 @@
  Melodie Brewster
  WPF 1410 Section 02
  Functions Assignment - Personal
- 10-22-2014
+ 10-23-2014
  */
 
 //We're going to calculate how often we need to buy a bag of dog food
