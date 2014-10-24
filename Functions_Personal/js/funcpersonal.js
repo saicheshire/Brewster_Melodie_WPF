@@ -27,6 +27,7 @@ while(isNaN(foodBag) || foodBag==="") {
 //set variable for total days the dog food bag will last
 var totalDays = calculateTotal(cupsDay,foodBag);
 console.log("You need to buy a bag of dog food every " + totalDays + " days.");
+alert("You need to buy a bag of dog food every " + totalDays + " days.");
 
 //create function
 function calculateTotal(cupsDay,foodBag){
