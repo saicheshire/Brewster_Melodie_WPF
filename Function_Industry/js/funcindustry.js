@@ -36,4 +36,9 @@ while(isNaN(totalPages) || totalPages===""){
 //call the function
 var totalCost = calculateTotal(perPage,perHour,totalPages);
 console.log("It will cost your client around" + "$" + totalCost + " to create their website.");
-alert("It will cost your client around" + "$" + totalCost + " to create their website.");
+alert("It will cost your client around" + " $" + totalCost + " to create their website.");
+
+//create function
+function calculateTotal(perPage,perHour,totalPages){
+    return perPage * totalPages * perHour;
+}
